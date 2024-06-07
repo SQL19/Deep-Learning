@@ -1,11 +1,13 @@
 # Deep-Learning
+This repository explores the latest state of the art techniques in the field of NLP and Image Processing.
+
 - Framework
   - Pytorch
   - Tensorflow
 - Model
   - Neural Network
   - LSTM
-  - Transformer
+  - Transformers
 
 
 ### References:
