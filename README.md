@@ -9,3 +9,4 @@ This repository explores the latest state of the art techniques in the field of 
 ### References:
 - An Introduction to Statistical Learning with Applications in Python
 - Approaching (Almost) Any Machine Learning Problems - Abhishek Thakur
+- https://www.sbert.net/docs/pretrained_models.html
